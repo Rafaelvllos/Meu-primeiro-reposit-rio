@@ -1,4 +1,4 @@
 # Meu primeiro Portfólio
 
 
-![preview img](/perfil.png)
+![preview img](/assets/img/perfil.png)
